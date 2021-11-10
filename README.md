@@ -1,2 +1,2 @@
 # ItelliSplit
-VST midi split chanels using IA
+VST midi split chanels using AI
